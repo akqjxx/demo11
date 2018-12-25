@@ -8,12 +8,7 @@ public class Demo11Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Demo11Application.class, args);		
-		System.out.println("4444");
-		System.out.println("44------------44");
-		
-		
-		
-		System.out.println("44------44--- 33---4412"+1234);
+		 
 		
 		
 	}
